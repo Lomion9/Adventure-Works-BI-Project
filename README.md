@@ -1,3 +1,7 @@
+bash
+[🇹🇷 Türkçe Dokümantasyon İçin Tıklayın](README_TR.md)
+
+---
 # Adventure Works Business Intelligence Report
 
 An end-to-end Power BI cloud analytics project designed to transform raw operational, sales, and customer data into a streamlined, interactive dashboard for leadership reviews.
