@@ -1,3 +1,6 @@
+[🇺🇸 Click Here for English Version](README.md)
+
+---
 # Adventure Works İş Zekası (BI) Raporu
 
 Müşteri ilişkileri, satış ve operasyonel süreçlere ait ham verileri; yönetim ekiplerinin stratejik kararlar almasını kolaylaştıracak, sade ve etkileşimli bir rapora dönüştürmek amacıyla geliştirilmiş uçtan uca bir Power BI analitik projesidir.
